@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "882457894037",
+    "firebase_url": "https://seismic-trail-287204.firebaseio.com",
+    "project_id": "seismic-trail-287204",
+    "storage_bucket": "seismic-trail-287204.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:882457894037:android:f38609796490678d7dcf9c",
+        "android_client_info": {
+          "package_name": "com.pranali.firebase_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "882457894037-n43i7437u022a3lvo2vj9jfle3l4gehh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdZxSXUhyOvMjdu2KYrla80xlxyl1ybXQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "882457894037-n43i7437u022a3lvo2vj9jfle3l4gehh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
